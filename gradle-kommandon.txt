@@ -1,0 +1,11 @@
+./gradlew compileJava
+kompilerar Java koden.
+
+./gradlew test
+kör junit testerna
+
+./gradlew javadoc
+genererar Javadoc dokumentation
+
+./gradlew jar
+bygger en JAR-fil
